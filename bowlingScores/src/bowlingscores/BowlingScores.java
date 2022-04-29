@@ -33,7 +33,7 @@ public class BowlingScores {
                 more = false;
             }
         }
-        if (count >= 1){
+        if (count >= 1) {
             average = (double) totalScore / count;
             System.out.println("Average score is " + average);
         }
