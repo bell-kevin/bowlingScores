@@ -34,8 +34,8 @@ public class BowlingScores {
             }
         }
         if (count >= 1){
-        average = (double) totalScore / count;
-        System.out.println("Average score is " + average);
+            average = (double) totalScore / count;
+            System.out.println("Average score is " + average);
         }
     }
 }
