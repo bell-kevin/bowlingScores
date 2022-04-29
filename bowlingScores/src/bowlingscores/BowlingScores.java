@@ -29,14 +29,13 @@ public class BowlingScores {
             if (score >= 0) {
                 totalScore += score;
                 count++;
-            } else if (count >= 1) {                
-                break;
-            }
-            else {    
-                return;
+            } else {    
+                more = false;
             }
         }
+        if (count >= 1){
         average = (double) totalScore / count;
         System.out.println("Average score is " + average);
+        }
     }
 }
