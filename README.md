@@ -22,7 +22,7 @@ Note that you must use correct formatting in the code -- appropriate indentation
 
 Submission: the specified screenshots and the root folder for the project  
 
-Note: You need to submit the whole project for these assignments. In File Explorer, go to the location where you created the project. There will be a folder with the name of your project -- that is the root folder of the project.  If you submit the root folder of the project, the instructor can run it on a different machine to grade it. If you don't submit the proper folder, it won't run on another machine, and the assignment will be marked with a zero.
+
 
 
 == We're Using GitHub Under Protest ==
